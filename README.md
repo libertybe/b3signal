@@ -1,4 +1,5 @@
-<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer></script>
+<head> 
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer></script>
 <script>
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
@@ -7,5 +8,5 @@
     });
   });
 </script>
-
+</head>
 # b3signal
